@@ -10,7 +10,6 @@ C:\Users\jsing604\source\repos\DemoWebApiJenskin\bin\Debug\net6.0\Microsoft.Open
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jsing604\source\repos\DemoWebApiJenskin\obj\Debug\net6.0\DemoWebApiJenskin.csproj.AssemblyReference.cache
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\obj\Debug\net6.0\DemoWebApiJenskin.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\obj\Debug\net6.0\DemoWebApiJenskin.AssemblyInfoInputs.cache
 C:\Users\jsing604\source\repos\DemoWebApiJenskin\obj\Debug\net6.0\DemoWebApiJenskin.AssemblyInfo.cs

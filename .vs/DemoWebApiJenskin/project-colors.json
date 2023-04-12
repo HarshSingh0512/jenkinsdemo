@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ae1ddbf-2be1-4dd6-9cac-54b35385dc8a": {
+      "ProjectGuid": "4ae1ddbf-2be1-4dd6-9cac-54b35385dc8a",
+      "DisplayName": "DemoWebApiJenskin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
